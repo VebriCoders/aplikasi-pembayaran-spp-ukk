@@ -1,65 +1,140 @@
 <p align="center">
-  <a href="https://getstisla.com">
-    <img src="https://avatars2.githubusercontent.com/u/45754626?s=75&v=4" alt="Stisla logo" width="75" height="75">
+  <a href="https://instagram.com/bri_vebri">
+    <img src="https://github.com/VebriCoders/VebriCoders/blob/9b2a93d0f8443e4caf808c8353e31665e6a84ab3/iconlong.png" alt="Stisla logo"  height="75">
   </a>
 </p>
 
-<h1 align="center">Stisla for CodeIgniter</h1>
+<h1 align="center">Aplikasi Pembayaran SPP (My SPP)</h1>
 
 <p align="center">
-  Stisla is Free Bootstrap Admin Template and will help you to speed up your project, design your own dashboard UI and the users will love it.
+  Aplikasi Pembayaran SPP Di Buat Dengan Codeigniter HMVC Dengan Template Stisla. Aplikasi Ini 100% Sudah Siap Pakai, Sudah Di Uji Untuk Operasional Di Sekolah Sekolah.
 </p>
 
-[![Stisla Preview](https://camo.githubusercontent.com/2135e0f6544a7286a3412cdc3df32d47fc91b045/68747470733a2f2f692e6962622e636f2f3674646d6358302f323031382d31312d31312d31352d33352d676574737469736c612d636f6d2e706e67)](https://getstisla.com)
+## Tentang Project
 
-## Table of contents
+Project Ini Saya Buat Untuk Pribadi & Untuk Project UKK Saat Sekolah Kelas 3 SMK, Dan Saya Upload Untuk Portofolio Saya Mendaftar Bintara Bakomsus IT Polri 2022
+<img
+  align="right"
+  alt="GIF"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
+  width="100"
+  height="100"
+/>
 
-- [Link Stisla](#link-stisla)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#License)
+[![Stisla Preview](https://github.com/VebriCoders/VebriCoders/blob/9b2a93d0f8443e4caf808c8353e31665e6a84ab3/prototype-aplikasi-pembayaran-spp-ukk-smk.png)](https://instagram.com/bri_vebri)
 
-## Link Stisla
-- Homepage: [getstisla.com](https://getstisla.com)
-- Repository: [github.com/stisla/stisla](https://github.com/stisla/stisla)
-- Documentation: [getstisla.com/docs](https://getstisla.com/docs)
+## Tools & Sistem
 
-## Installation
-- [Download the latest release](https://github.com/KhidirDotID/stisla-codeigniter/archive/v1.0.0.zip).
-or clone the repo :
-```
-https://github.com/KhidirDotID/stisla-codeigniter.git
-```
+- Codeigniter 3 HMVC
+- Core Vebri
+- Template Admin LTE Dashboard
+- MYSQL Database
+- Apache Server
 
-## Usage
-- Create a new Controller at `application/controllers` then put like this:
-```
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+## Status Project
+- Final (V 5.2)
 
-class Controller_name extends CI_Controller {
+## Project Detail
+- Di Kerjakan = 12 February 2021
+- Di Selesaikan = 20 February 2021
 
-	public function index() {
-		$data = array(
-			'title' => "Your title"
-		);
-		$this->load->view('View_name', $data);
-	}
-}
-?>
-```
-- Create a new View at `application/views` then put like this:
-```
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-$this->load->view('dist/_partials/header'); ?>
+## Fitur Tersedia
+A. Module Admin & Petugas
+- Login
+- Logout
+- Register
+- Forgot Password
+- Settting Aplikasi
+- User Management
+- Dashboard
+- Profile
+- Data SPP
+- Data Kelas
+- Data Siswa
+- History Input Output Data
+- Pembayaran SPP
+- Laporan SPP
+- Cari Data SPP
+- Search Engine Data
 
-      <!-- Main Content -->
+B. Module Siswa
+- Login
+- Logout
+- Data SPP
+- Buku SPP
+- Cek Pembayaran
 
-<?php
-$this->load->view('dist/_partials/footer'); ?>
-```
+## Fitur Belum Tersedia
+- Tidak Ada
+
+## Admin Account
+- Username = admin@vebri.com
+- Password = admin
 
 ## License
 
-Stisla is under the [MIT License](LICENSE).
+PRADANA INDUSTRIES 2021
+
+## DREAM & SKILL & TOOLS:
+<img
+  align="right"
+  alt="GIF"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
+  width="350"
+  height="350"
+/>
+
+<img
+  align="left"
+  alt="Visual Studio Code"
+  width="26px"
+  src="https://polri.go.id/webpolri/assets/img/others/logo-polri.png"
+/>
+<img
+  align="left"
+  alt="Polri"
+  width="26px"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
+/>
+<img
+  align="left"
+  alt="Polri"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+/>
+<img
+  align="left"
+  alt="HTML5"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+/>
+<img
+  align="left"
+  alt="CSS3"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+/>
+<img
+  align="left"
+  alt="JavaScript"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+/>
+<img
+  align="left"
+  alt="SQL"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
+/>
+<img
+  align="left"
+  alt="GitHub"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+/>
+<img
+  align="left"
+  alt="Terminal"
+  width="26px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+/>
