@@ -10,6 +10,9 @@
   Aplikasi Pembayaran SPP Di Buat Dengan Codeigniter HMVC Dengan Template Stisla. Aplikasi Ini 100% Sudah Siap Pakai, Sudah Di Uji Untuk Operasional Di Sekolah Sekolah.
 </p>
 
+## Demo Project
+http://spp.vebripradanadeveloper.epizy.com/
+
 ## Tentang Project
 
 Project Ini Saya Buat Untuk Pribadi & Untuk Project UKK Saat Sekolah Kelas 3 SMK, Dan Saya Upload Untuk Portofolio Saya Mendaftar Bintara Bakomsus IT Polri 2022
