@@ -21,7 +21,7 @@ Project Ini Saya Buat Untuk Pribadi & Untuk Project UKK Saat Sekolah Kelas 3 SMK
   height="100"
 />
 
-[![Stisla Preview](https://github.com/VebriCoders/VebriCoders/blob/9b2a93d0f8443e4caf808c8353e31665e6a84ab3/prototype-aplikasi-pembayaran-spp-ukk-smk.png)](https://instagram.com/bri_vebri)
+[![Stisla Preview](https://github.com/VebriCoders/VebriCoders/blob/73893902f35a13f57ba27dc3946c3f4fdb983a12/Demo-My-Spp.gif)](https://instagram.com/bri_vebri)
 
 ## Tools & Sistem
 
